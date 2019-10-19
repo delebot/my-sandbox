@@ -42,7 +42,7 @@ To solve this mechanic and general rot/prey/tether mechanics, two rules must be 
 
 ### Drainage
 
-> Alternate Mechanic Names: Mustard Bomb in O11S
+> Alternate Mechanic Names: Not Mustard Bomb in O11S But The Tether That Resolves In An Aoe
 
 A tether that can be passed to other players by walking over them or the tether. After the mechanic resolves, big AoE damage is dealt to the tethered player. 
 
